@@ -2,41 +2,29 @@ Guerra-Peixe's academic Trio
 
 by Frederico Barros
 
-The year was 1960 and composer César Guerra-Peixe (1914-1993) submitted his *Trio for violin, violoncello and piano* to a contest held by the Brazilian Ministry of Education's radio station.<1> From the modal techniques employed to the explicit nationalism, clear form and tightly-knit thematic work, the *Trio* in many ways shows how Guerra-Peixe positioned himself in the debate about Brazilian music at the time. Some old-school motivic analysis of the exposition of the first movement may help us get a clearer understanding of what this means.
+The year was 1960 and composer César Guerra-Peixe (1914-1993) submitted his *Trio for violin, violoncello and piano* to a contest held by the Brazilian Ministry of Education's radio station.<1> From the modal techniques employed and explicit nationalism to the clear structure and tightly-knit thematic work, the *Trio* shows in many ways how Guerra-Peixe positioned himself in the debate about Brazilian music at the time. Some old-school motivic analysis of the exposition of the first movement may help us get a clearer understanding of what this means.
 
-The *Sonata Allegro* opens with material clearly related to the Brazilian northeast in the way the Lydian mode is employed (A1), immediately followed by its Dorian version (A1'), marked by an increase in chromaticism and polyphonic activity.
+The *Sonata Allegro* opens with material clearly related to the Brazilian northeast in the way the Lydian mode is employed<2>, immediately followed by its Dorian version (A1 and A1', respectively).
 
 ![](media/media/image1.jpeg){width="5.076042213473316in" height="1.3807294400699912in"}
 
 Figura : GUERRA-PEIXE - Trio para violino, violoncelo e piano, 1º mov., compassos 1 a 11.
 
-Then, from A1-A1', in D Lydian and D Dorian respectively, we get to A2, in F# minor, derived from cell *c*:
-
-![](media/media/image2.png){width="3.3244794400699913in" height="0.8328127734033246in"}
-
-![](media/media/image3.png){width="3.371875546806649in" height="0.9411461067366579in"}
-
-> Figura : Relação entre a célula c (de A1) e A2: no alto, fragmento de A1 com a célula *c* em destaque; embaixo, primeiro membro de frase de A2.
-
-Through a series of sequences and imitations the climax of the first group is reached and then leads to second group, whose B1 is the longest part of the exposition, with its *seresta*-like melody. Finally, B2, in the key of A and clearly functioning as a closing theme, brings back the Lydian sound of A1 - to which it shows other interesting resemblances.[^16] 
+An increase in chromaticism and polyphonic activity marks the transition from A1' to A2, then reaching the climax of the first group through a series of sequences and imitations. Derived from the cell *c* in A1, A2 also marks the passage from D dorian (A1) to F# minor, leading to B1, in B dorian. Finally, B2 brings back the Lydian sound of A1 - to which it shows other interesting resemblances[^15] - but now in the key of A. 
 
 ![](media/media/image4.png){width="5.895833333333333in" height="2.6527777777777777in"}
 
 Figura : GUERRA-PEIXE - *Trio para violino, violoncelo e piano*, I mov., segundo tema do segundo grupo (B2)
 
-Showing why these materials are related to specific regions of Brazil is in itself a complex endeavor, let alone in a limited space like this. However it is possible to let the composer himself speak, as he wrote some pioneering studies on Brazilian "folklore" during the 1950s, not coincidentally the period in which he developed his nationalist style. In **NOME DO ARTIGO**, Guerra-Peixe presents examples that bare clear resemblance - both melodic and rhythmic - to what we are to find in the B2 of the *Trio*. Given the close thematic relation between A1 and B2. Allow me, then, to remind the reader of the relation between A1 and B2 and the link to the Brazilian northeast is also established.
+At this point we can see how the thematic work, the modal relations at play and the tonal plan intertwine in the grand scheme. For instance, B2 not only has the character of a closing theme, but also is centered around A, the dominant of the main key. The exposition starts in D, goes to F#, then B and finally A. Leaving the stopgaps aside for a moment, from the first group to the second, the piece descends a minor third, as if going from major to relative minor. Here, the move is from Lydian to Dorian, whose relation within the diatonic collection is exactly homologous to the more traditional relative tonalities.
 
-**FIGURA DO CABOCOLINHOS DO RECIFE**
+As we can see, the modalism present in the *Trio* takes over the role of the traditional tonal relations in a conventional *sonata allegro* and this serves to open a small window into a more significant aspect of the *Trio*, leading us to ask ourselves whether we had better not take all this at face value. Some years later, Guerra-Peixe would affirm that he wrote the *Trio* in a deliberately academic fashion, hoping it would help it fare well in the contest. 
 
-However, we had better not take all this at face value. Some years later, Guerra-Peixe would affirm that he wrote the *Trio* in a deliberately academic fashion, hoping it would help it fare well in the contest. 
-
-> uma vez que a obra se destinava a um concurso realizado naquela época (hoje os critérios costumam ser mais abertos), \[o primeiro\] movimento está restrito formalmente ao tradicional *allegro de sonata* muito embora apareçam aqui elementos derivados do toque do berimbau, assim como da modinha e da inúbia (flautinha) dos "cabocolinhos" do Recife.[^4]<2>
+> uma vez que a obra se destinava a um concurso realizado naquela época (hoje os critérios costumam ser mais abertos), \[o primeiro\] movimento está restrito formalmente ao tradicional *allegro de sonata* muito embora apareçam aqui elementos derivados do toque do berimbau, assim como da modinha e da inúbia (flautinha) dos "cabocolinhos" do Recife.[^4]<3>
 
 Granted, we cannot know for sure whether the *Sonata Allegro* was actually a requirement or if he deemed it a safer bet. Moreover, the elements indicated in the analysis presented here are all fairly common in the Western tradition and are in fact usually considered indicators of good compositional technique and constructive rigour. Nonetheless, albeit very often present, these elements tend to be a lot more subtle in other works of the composer, what seems to indicate that Guerra-Peixe saw the contest's judges as possessing a rather conventional taste.
 
-Guerra-Peixe tended to show off his knowledge of Brazilian regional cultures by substituting melodic elements, modes or even structures and forms he found during his field researches in the countryside<3> for traditional elements of Western music. An eloquent example is the String Quartet no. 2, from 1958, where one finds out that the first movement may superficially sound like a multi-thematic *sonata allegro*, then start wondering if it isn't a rondo only to finally, with some luck, find out that the composer employed the form of the *cateretê* from São Paulo - which, to make matters even more complicated, is not a type of song or anything like that, but in fact a ritual in itself whose large form is mirrorred in the piece.
-
-And yet the modalism present in the *Trio* shows something interesting in the way it takes over the role of the traditional tonal relations in a conventional *sonata allegro*. **Falar da relação ré lídio - si dórico etc.**
+Guerra-Peixe tended to show off his knowledge of Brazilian regional cultures by substituting melodic elements, modes or even structures and forms he found during his field researches in the countryside<4> for traditional elements of Western music. An eloquent example is the String Quartet no. 2, from 1958, where one finds out that the first movement may superficially sound like a multi-thematic *sonata allegro*, then start wondering if it isn't a rondo only to finally, with some luck, find out that the composer employed the form of the *cateretê* from São Paulo - which, to make matters even more complicated, is not a type of song or anything like that, but in fact a ritual in itself whose large form is mirrorred in the piece.
 
 
 
@@ -86,5 +74,15 @@ Neste sentido, Guerra-Peixe estava trabalhando bem próximo da prática comum da
 
 
 <1> Rádio MEC's II Concurso de Composição Música e Músicos do Brasil
-<2> referencia do trecho em que o GP fala que o trio era academico
-<3> referencia daquele artigo em ingles do samuel em que fala das práticas coreográficas e tal
+<2> Showing why these materials are related to specific regions of Brazil is in itself a complex endeavor, let alone in a limited space like this. However it is possible to let the composer himself speak, as he wrote some pioneering studies on Brazilian "folklore" during the 1950s, not coincidentally the period in which he developed his nationalist style. In **NOME DO ARTIGO**, Guerra-Peixe presents examples that bear clear resemblance - both melodic and rhythmic - to what we are to find in both B2 and A1, given the close relations between them.
+
+**FIGURA DO CABOCOLINHOS DO RECIFE**
+ 
+<3> referencia do trecho em que o GP fala que o trio era academico
+<4> referencia daquele artigo em ingles do samuel em que fala das práticas coreográficas e tal
+
+
+
+
+
+[^15]: Para uma discussão mais detalhada do ponto, cf. FARIA, A. G. *Op. Cit*. A questão da derivação dos cabocolinhos será discutida no capítulo 3.
