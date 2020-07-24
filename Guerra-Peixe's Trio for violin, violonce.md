@@ -1,10 +1,10 @@
 Guerra-Peixe's academic Trio
 
-partitura: https://painelsesc.sesc.com.br/partituras.nsf/viewLookupPartituras/736289B70CDBCBC5832579DC006F13D7/$FILE/trio_vl_vc_pn.pdf
+partitura do trio: https://painelsesc.sesc.com.br/partituras.nsf/viewLookupPartituras/736289B70CDBCBC5832579DC006F13D7/$FILE/trio_vl_vc_pn.pdf
 
 by Frederico Barros
 
-The year was 1960 and composer César Guerra-Peixe (1914-1993) submitted his *Trio for violin, violoncello and piano* to a contest held by the Brazilian Ministry of Education's radio station.<1> From the modal techniques employed and explicit nationalism to the clear structure and tightly-knit thematic work, the *Trio* shows in many ways how Guerra-Peixe positioned himself in the debate about Brazilian music at the time. Some old-school motivic analysis of the first movement's exposition may help us get a clearer understanding of what this means.
+The year was 1960 and composer César Guerra-Peixe submitted his *Trio for violin, violoncello and piano* to a contest held by the Brazilian Ministry of Education's radio station.<1> From the modal techniques employed and explicit nationalism to the clear structure and tightly-knit thematic work, the *Trio* shows in many ways how Guerra-Peixe positioned himself in the debate about Brazilian music at the time. Some old-school motivic analysis of the first movement's exposition may help us get a clearer understanding of what this means.
 
 The *Sonata Allegro* opens with material clearly related to the Brazilian northeast in the way the Lydian mode is employed<2>, immediately followed by its Dorian version (A1 and A1', respectively).
 
