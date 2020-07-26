@@ -10,13 +10,13 @@ The opening *Sonata Allegro* begins with material related to the Brazilian north
 
 ![](media/media/image1.jpeg){width="5.076042213473316in" height="1.3807294400699912in"}
 
-Figura: GUERRA-PEIXE - Trio para violino, violoncelo e piano, 1º mov., compassos 1 a 11.
+Figura 1: GUERRA-PEIXE - Trio para violino, violoncelo e piano, 1º mov., compassos 1 a 11.
 
 An increase in chromaticism and polyphonic activity marks the transition from A1' to A2, then reaching the climax of the first group through a series of sequences and imitations. Derived from the cell *c* in A1, A2 also marks the passage from D dorian (A1') to F# minor (A2), then leading to B1, in B dorian. Finally, B2 brings back the Lydian sound of A1 - to which it shows other interesting resemblances[^15] - but now in the key of A. 
 
 ![](media/media/image4.png){width="5.895833333333333in" height="2.6527777777777777in"}
 
-Figura : GUERRA-PEIXE - *Trio para violino, violoncelo e piano*, I mov., segundo tema do segundo grupo (B2)
+Figura 2: GUERRA-PEIXE - *Trio para violino, violoncelo e piano*, I mov., segundo tema do segundo grupo (B2)
 
 At this point it becomes clear how the thematic work, the modal relations and the tonal plan intertwine. The exposition went from D to F#, then to B and finally to A, which not only has the character of a closing theme, but also is centered around the dominant of the main key. Furthermore, from the first group to the second - the foundational polarity of sonata form - the piece descends a minor third, as if going from major to relative minor, but here making a homologous move from Lydian to Dorian. As we can see, the modalism present in the *Trio* takes over the role of the tonal relations in a conventional *Sonata Allegro* **and this serves as a point of entrance into a more significant aspect of this piece**, thus raising the question of whether we had better not take all this at face value. Some years later, Guerra-Peixe would affirm that he wrote the *Trio* in a deliberately academic fashion, hoping it would make it fare better in the contest.[^4]<3>
 
