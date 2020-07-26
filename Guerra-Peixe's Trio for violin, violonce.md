@@ -6,7 +6,7 @@ by Frederico Barros
 
 The year was 1960 and Brazilian composer César Guerra-Peixe submitted his *Trio for violin, violoncello and piano* to a contest held by the Brazilian Ministry of Education's radio station.<1> The piece is illustrative of Guerra-Peixe's output in the period, but at the same time some of its specificities offer interesting points of discussion. In fact, from the modal techniques employed and explicit nationalism to the clear structure and tightly-knit thematic work, the *Trio* shows how Guerra-Peixe positioned himself in the debate about Brazilian music at the time. Some old-school motivic analysis may help us get a clearer understanding of what is at stake here.
 
-The exposition of the opening *Sonata Allegro* begins with material related to the Brazilian northeast in the way the Lydian mode is employed<2>, immediately followed by its Dorian version (A1 and A1', respectively):
+The opening *Sonata Allegro* begins with material related to the Brazilian northeast in the way the Lydian mode is employed<2>, immediately followed by its Dorian version (A1 and A1', respectively):
 
 ![](media/media/image1.jpeg){width="5.076042213473316in" height="1.3807294400699912in"}
 
