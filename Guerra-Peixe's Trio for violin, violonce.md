@@ -10,7 +10,7 @@ The exposition of the opening *Sonata Allegro* begins with material related to t
 
 ![](media/media/image1.jpeg){width="5.076042213473316in" height="1.3807294400699912in"}
 
-Figura : GUERRA-PEIXE - Trio para violino, violoncelo e piano, 1º mov., compassos 1 a 11.
+Figura: GUERRA-PEIXE - Trio para violino, violoncelo e piano, 1º mov., compassos 1 a 11.
 
 An increase in chromaticism and polyphonic activity marks the transition from A1' to A2, then reaching the climax of the first group through a series of sequences and imitations. Derived from the cell *c* in A1, A2 also marks the passage from D dorian (A1') to F# minor (A2), then leading to B1, in B dorian. Finally, B2 brings back the Lydian sound of A1 - to which it shows other interesting resemblances[^15] - but now in the key of A. 
 
