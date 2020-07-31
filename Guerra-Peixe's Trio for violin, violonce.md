@@ -6,7 +6,7 @@ The year was 1960 and Brazilian composer César Guerra-Peixe submitted his *Trio
 
 The opening *sonata-allegro* begins with material related to the Brazilian northeast<3> in the way the Lydian mode is employed (A1, see example 1), immediately followed by its Dorian version (A1'):
 
-![](media/media/image1.jpeg)
+![](media/media/Exemplo-1.png)
 
 Example 1: GUERRA-PEIXE - Trio for violin, violoncello and piano, 1st mov., measures 1-11.
 
@@ -14,7 +14,7 @@ The origin of the piano part in A1 is harder to pinpoint, but that specific rhyt
 
 Moving on, we get to A2, derived from the cell *c* in A1. Here, the piece also shifts from D dorian (A1') to F# minor (A2), then leading to B1, in B dorian. Finally, B2, in the key of A, has the character of a closing theme and brings back the Lydian sound of A1, to which it is also thematically related:<5> 
 
-![](media/media/image4.png)
+![](media/media/Exemplo-2.png)
 
 Example 2: GUERRA-PEIXE - Trio for violin, violoncello and piano, 1st mov., measures 70-74.
 
@@ -35,14 +35,21 @@ That's much less perceptible in the *Trio*. We won't find some alternative form 
 
 
 <1> The score can be accessed at https://painelsesc.sesc.com.br/partituras.nsf/viewLookupPartituras/736289B70CDBCBC5832579DC006F13D7/$FILE/trio_vl_vc_pn.pdf. The recording made in 1960 as well as the sleeve of the 1984 LP where it was released can be found in http://portais.funarte.gov.br/brasilmemoriadasartes/acervo/discos-pro-memus/guerra-peixe-e-heitor-alimonda-1984/ 
+
 <2> *Rádio MEC*'s *II Concurso de Composição Música e Músicos do Brasil*.
+
 <3> Showing why these materials are related to specific regions of Brazil is a complex endeavor. However, we can let the composer himself speak. In the essay *Os Cabocolinhos do Recife* (GUERRA-PEIXE, C. 2007. *Estudos de folclore e música popular urbana*. Samuel Araújo (org.). Música editada. Belo Horizonte: Editora UFMG), Guerra-Peixe presents examples very similar to both B2 and A1.
 
 ![](media/media/cabocolinhos.png)
  
 <4> Liner notes by the composer for the LP *Documentos da Música Brasileira*, v.17, LP 356-404-203, MEC/Secretaria de Cultura/Funarte. The *berimbau* is an instrument mostly associated with the *capoeira*, from Bahia. It plays two pitches - usually close to a major second in Western theory - that are subject to timbral variations through various playing techniques.
+
 <5> FARIA, A. G. 2000. "Guerra-Peixe e a estilização do folclore." In: *Latin American Music Review*. vol. 21, no. 2.
-<6> See note 4 above. 
+
+<6> See note 4 above.
+
 <7> SCHWARTZMAN, S., H. M. B. BOMENY, V. M. R. COSTA. 2000. *Tempos de Capanema*. São Paulo, SP: Paz e Terra: Editora FGV; SQUEFF, E., J. M. WISNIK. 2004. *Música*. São Paulo, Brasil: Editora Brasiliense.
+
 <8> See ARAÚJO, S. "Introduction" (GUERRA-PEIXE 2007); ARAÚJO, S. 2010. *Movimentos musicais: Guerra-Peixe para ouvir, dançar e pensar*. Revista USP, (87), 98-109. USP.
+
 <9> FARIA, A. G. 2007. “Modalismo e Forma na obra de Guerra-Peixe” in: FARIA, A.G.; BARROS, L.O.C.; SERRÃO, R. *Guerra-Peixe: um músico brasileiro*. Rio de Janeiro: Lumiar.
