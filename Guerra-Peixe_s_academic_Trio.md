@@ -64,4 +64,4 @@ Frederico Barros is Music History professor at the Federal University of Rio de 
 
 https://fredericobarros.com
 
-![](media/media/fmb.jpeg)
+![](media/media/fmb.jpg)
