@@ -43,6 +43,8 @@ That's much less perceptible in the *Trio*. We won't find some alternative form 
 
 &nbsp;    
 
+Footnotes
+
 <1> *Rádio MEC*'s *II Concurso de Composição Música e Músicos do Brasil*.
 
 <2> Showing why these materials are related to specific regions of Brazil is a complex endeavor. However, we can let the composer himself speak. In the essay *Os Cabocolinhos do Recife* (GUERRA-PEIXE, C. 2007. *Estudos de folclore e música popular urbana*. Samuel Araújo (org.). Música editada. Belo Horizonte: Editora UFMG), Guerra-Peixe presents examples very similar to both B2 and A1.
@@ -65,6 +67,8 @@ That's much less perceptible in the *Trio*. We won't find some alternative form 
 &nbsp;
 
 &nbsp;    
+
+Biography
 
 Frederico Barros is Music History professor at the Federal University of Rio de Janeiro. He has a PhD in Sociology and MPhil and BA in History. Research interests include concert and urban popular musics during the 20th and 21st centuries, modernism, nationalism, and music and technology.
 
