@@ -2,13 +2,13 @@ Guerra-Peixe's academic Trio
 
 by Frederico Barros
 
-The year was 1960 and Brazilian composer César Guerra-Peixe submitted his *Trio for violin, violoncello and piano*<1> to a contest held by the Brazilian Ministry of Education's radio station.<2> On the surface, the piece is illustrative of Guerra-Peixe's output in the period, but some of its specificities offer interesting points of discussion. From the modal techniques employed and explicit nationalism to the clear structure and tightly-knit thematic work, the *Trio* shows how Guerra-Peixe positioned himself in the debate about Brazilian music at the time. Some old-school motivic analysis may help us better understand what this means.
+The year was 1960 and Brazilian composer César Guerra-Peixe submitted his *Trio*, for violin, cello and piano<1> to a contest held by the Brazilian Ministry of Education's radio station.<2> On the surface, the piece is illustrative of Guerra-Peixe's output in the period, but some of its specificities offer interesting points of discussion. From the modal techniques employed and explicit nationalism to the clear structure and tightly-knit thematic work, the *Trio* shows how Guerra-Peixe positioned himself in the debate about Brazilian music at the time. Some old-school motivic analysis may help us better understand what this means.
 
 The opening *sonata-allegro* begins with material related to the Brazilian northeast<3> in the way the Lydian mode is employed (A1, see example 1), immediately followed by its Dorian version (A1'):
 
 ![](media/media/Exemplo-1.png)
 
-Example 1: GUERRA-PEIXE - Trio for violin, violoncello and piano, 1st mov., measures 1-11.
+Example 1: Guerra-Peixe - Trio, 1st mov., measures 1-11.
 
 The origin of the piano part in A1 is harder to pinpoint, but that specific rhythmic structure combined with the alternation of a major second in the highest voice can be convincingly related to the "elements of the *berimbau*" that Guerra-Peixe would later affirm were present in the piece.<4>
 
@@ -16,7 +16,7 @@ Moving on, we get to A2, derived from the cell *c* in A1. Here, the piece also s
 
 ![](media/media/Exemplo-2.png)
 
-Example 2: GUERRA-PEIXE - Trio for violin, violoncello and piano, 1st mov., measures 70-74.
+Example 2: Guerra-Peixe - Trio, 1st mov., measures 70-74.
 
 The exposition went from D to F#, then to B and finally to A, and from the first group to the second - the foundational polarity of sonata form - the piece descends a minor third, as if going from major to relative minor, but here making a homologous move from D Lydian to B Dorian. As we can see, despite B2 being in the dominant region, the modalism present in the *Trio* takes over the role of the tonal relations in a conventional *sonata-allegro*. This serves as an entry point into a significant aspect of the piece: Guerra-Peixe stayed rooted in principles from the Western tradition while infusing them with elements of different origins; following *sonata* procedures by the book, but employing material of recognizably Brazilian character.
 
