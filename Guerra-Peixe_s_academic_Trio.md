@@ -60,7 +60,7 @@ That's much less perceptible in the *Trio*. We won't find some alternative form 
   
   
   
-Frederico Barros is Music History professor at the Federal University of Rio de Janeiro. He has a PhD in Sociology and MPhil and BA in History. Research interests include concert and urban popular musics in the Americas, Modernism, Nationalism, Social Theory and Music and Technology.
+Frederico Barros is Music History professor at the Federal University of Rio de Janeiro. He has a PhD in Sociology and MPhil and BA in History. Research interests include concert and urban popular musics during the 20th and 21st centuries, modernism, nationalism, and music and technology.
 
 https://fredericobarros.com
 
