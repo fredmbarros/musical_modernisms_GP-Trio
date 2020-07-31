@@ -37,9 +37,9 @@ Guerra-Peixe liked to show off his knowledge of Brazilian regional cultures by d
 Thus, the meticulous melodic construction and compositional prowess shown in the *Trio* may be regarded as a deliberate act in a very specific sense. Without getting into value judgments, even if Guerra-Peixe may have misevaluated the jury (he received the second prize and the winning piece, by Marlos Nobre, cannot be said to be conservative, after all), the *Trio* reveals that Guerra-Peixe considered the jury conventional both on the aesthetic and the technical side. If in terms of nationalism he would more or less align with them - although usually in a more nuanced and complex fashion -, with regards to the technical side things tended to get fuzzier, as Guerra-Peixe would often derive procedures from folkloric forms, risking a relative alienation of an audience more attuned with the Western canon.
 
 That's much less perceptible in the *Trio*. We won't find some alternative form here, but a proper *sonata-allegro*, and as such the thematic material is orderly presented. At the same time, rhythms from Bahia serve as accompaniment to melodic figures from Pernambuco, purposefully blurring geographic frontiers. Finally, the modal elements sound Brazilian, but below the surface they put very Western structural forces into motion. This is not to say that Guerra-Peixe would otherwise *always* avoid the so-called common practice, that is, Western concert music tradition - be it modern or classic-romantic. Timbre, harmony, developmental procedures, most aspects of the Western thought about music would rather be to some extent impacted by the folkloristic investigations he engaged in from the 1950s on. Threading the line that separated his aesthetic demands and the taste of an imagined jury, he ended up exposing some shortcomings of the modernist project he was himself stumbling upon but couldn't quite fathom at the time, touching on things we are still grappling with today: alternative theories of form, sound, discourse, and drama, amounting to other ways of thinking about music itself which may not even fit in these categories.
-
-
-
+  
+  
+  
 <1> *Rádio MEC*'s *II Concurso de Composição Música e Músicos do Brasil*.
 
 <2> Showing why these materials are related to specific regions of Brazil is a complex endeavor. However, we can let the composer himself speak. In the essay *Os Cabocolinhos do Recife* (GUERRA-PEIXE, C. 2007. *Estudos de folclore e música popular urbana*. Samuel Araújo (org.). Música editada. Belo Horizonte: Editora UFMG), Guerra-Peixe presents examples very similar to both B2 and A1.
@@ -57,9 +57,9 @@ That's much less perceptible in the *Trio*. We won't find some alternative form 
 <7> See ARAÚJO, S. "Introduction" (GUERRA-PEIXE 2007); ARAÚJO, S. 2010. *Movimentos musicais: Guerra-Peixe para ouvir, dançar e pensar*. Revista USP, (87), 98-109. USP.
 
 <8> FARIA, A. G. 2007. “Modalismo e Forma na obra de Guerra-Peixe” in: FARIA, A.G.; BARROS, L.O.C.; SERRÃO, R. *Guerra-Peixe: um músico brasileiro*. Rio de Janeiro: Lumiar.
-
-
-
+  
+  
+  
 Frederico Barros is Music History professor at the Federal University of Rio de Janeiro. He has a PhD in Sociology and MPhil and BA in History. Research interests include concert and urban popular musics in the Americas, Modernism, Nationalism, Social Theory and Music and Technology.
 
 https://fredericobarros.com
