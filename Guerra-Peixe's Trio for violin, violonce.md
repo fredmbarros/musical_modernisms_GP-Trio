@@ -6,7 +6,7 @@ The year was 1960 and Brazilian composer César Guerra-Peixe submitted his *Trio
 
 The opening *sonata-allegro* begins with material related to the Brazilian northeast<3> in the way the Lydian mode is employed (A1, see example 1), immediately followed by its Dorian version (A1'):
 
-![](media/media/image1.jpeg){width="5.076042213473316in" height="1.3807294400699912in"}
+![](media/media/image1.jpeg)
 
 Example 1: GUERRA-PEIXE - Trio for violin, violoncello and piano, 1st mov., measures 1-11.
 
@@ -14,7 +14,7 @@ The origin of the piano part in A1 is harder to pinpoint, but that specific rhyt
 
 Moving on, we get to A2, derived from the cell *c* in A1. Here, the piece also shifts from D dorian (A1') to F# minor (A2), then leading to B1, in B dorian. Finally, B2, in the key of A, has the character of a closing theme and brings back the Lydian sound of A1, to which it is also thematically related:<5> 
 
-![](media/media/image4.png){width="5.895833333333333in" height="2.6527777777777777in"}
+![](media/media/image4.png)
 
 Example 2: GUERRA-PEIXE - Trio for violin, violoncello and piano, 1st mov., measures 70-74.
 
@@ -38,7 +38,7 @@ That's much less perceptible in the *Trio*. We won't find some alternative form 
 <2> *Rádio MEC*'s *II Concurso de Composição Música e Músicos do Brasil*.
 <3> Showing why these materials are related to specific regions of Brazil is a complex endeavor. However, we can let the composer himself speak. In the essay *Os Cabocolinhos do Recife* (GUERRA-PEIXE, C. 2007. *Estudos de folclore e música popular urbana*. Samuel Araújo (org.). Música editada. Belo Horizonte: Editora UFMG), Guerra-Peixe presents examples very similar to both B2 and A1.
 
-![](media/media/cabocolinhos.png){width="5.076042213473316in" height="1.3807294400699912in"}
+![](media/media/cabocolinhos.png)
  
 <4> Liner notes by the composer for the LP *Documentos da Música Brasileira*, v.17, LP 356-404-203, MEC/Secretaria de Cultura/Funarte. The *berimbau* is an instrument mostly associated with the *capoeira*, from Bahia. It plays two pitches - usually close to a major second in Western theory - that are subject to timbral variations through various playing techniques.
 <5> FARIA, A. G. 2000. "Guerra-Peixe e a estilização do folclore." In: *Latin American Music Review*. vol. 21, no. 2.
