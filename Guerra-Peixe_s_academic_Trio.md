@@ -1,6 +1,6 @@
-Guerra-Peixe's academic Trio
+**Guerra-Peixe's academic Trio**
 
-by Frederico Barros
+**by Frederico Barros**
 
 The year was 1960 and Brazilian composer César Guerra-Peixe submitted his *Trio*, for violin, cello and piano to a contest held by the Brazilian Ministry of Education's radio station.<1> The full score can be freely accessed at https://painelsesc.sesc.com.br/partituras.nsf/viewLookupPartituras/736289B70CDBCBC5832579DC006F13D7/$FILE/trio_vl_vc_pn.pdf, and the 1960 recording (as well as the sleeve of the 1984 LP where it was released) can be found in http://portais.funarte.gov.br/brasilmemoriadasartes/acervo/discos-pro-memus/guerra-peixe-e-heitor-alimonda-1984/.
 
@@ -10,7 +10,7 @@ The opening *sonata-allegro* begins with material related to the Brazilian north
 
 ![](media/media/Exemplo-1.jpg)
 
-Example 1: Guerra-Peixe - Trio, 1st mov., measures 1-11
+**Figure 1:** Guerra-Peixe - Trio, 1st mov., measures 1-11
 
 The origin of the piano part in A1 is harder to pinpoint, but that specific rhythmic structure combined with the alternation of a major second in the highest voice can be convincingly related to the "elements of the *berimbau*" that Guerra-Peixe would later affirm were present in the piece.<3>
 
@@ -18,7 +18,7 @@ Moving on, we get to A2, derived from the cell *c* in A1. Here, the piece also s
 
 ![](media/media/Exemplo-2.jpg)
 
-Example 2: Guerra-Peixe - Trio, 1st mov., measures 70-74
+**Figure 2:** Guerra-Peixe - Trio, 1st mov., measures 70-74
 
 The exposition went from D to F#, then to B and finally to A, and from the first group to the second - the foundational polarity of sonata form - the piece descends a minor third, as if going from major to relative minor, but here making a homologous move from D Lydian to B Dorian. As we can see, despite B2 being in the dominant region, the modalism present in the *Trio* takes over the role of the tonal relations in a conventional *sonata-allegro*. This serves as an entry point into a significant aspect of the piece: Guerra-Peixe stayed rooted in principles from the Western tradition while infusing them with elements of different origins; following *sonata* procedures by the book, but employing material of recognizably Brazilian character.
 
@@ -30,7 +30,7 @@ To put it bluntly, younger composers such as Guerra-Peixe tended to see the nati
 
 ![](media/media/guerra_peixe_1950.jpg)
 
-Guerra-Peixe in 1950
+**Figure 3:** Guerra-Peixe in 1950
 
 Guerra-Peixe liked to show off his knowledge of Brazilian regional cultures by ditching traditional elements of Western music in favor not only of melodic ideas and rhythms - which at that time were common currency for nationalists worldwide -, but also structures, timbres and forms he learned during the trips he took to the countryside. An eloquent example is the first movement of his *String Quartet n. 2*, from 1958: at first it may seem like an odd *sonata-allegro*, then one starts wondering if it isn't a rondo... only to finally, with some luck, find out that the composer employed the form of the *cateretê* from São Paulo. To make matters even more complicated, we are not dealing with a song form or equivalent, but with a manifestation more akin to a ritual, whose sequential development is mirrored in the piece.<8>
 
@@ -43,7 +43,7 @@ That's much less perceptible in the *Trio*. We won't find some alternative form 
 
 &nbsp;    
 
-Footnotes
+**Footnotes**
 
 <1> *Rádio MEC*'s *II Concurso de Composição Música e Músicos do Brasil*.
 
@@ -68,7 +68,7 @@ Footnotes
 
 &nbsp;    
 
-Biography
+**Biography**
 
 Frederico Barros is Music History professor at the Federal University of Rio de Janeiro. He has a PhD in Sociology and MPhil and BA in History. Research interests include concert and urban popular musics during the 20th and 21st centuries, modernism, nationalism, and music and technology.
 
