@@ -2,9 +2,9 @@ Guerra-Peixe's academic Trio
 
 by Frederico Barros
 
-The year was 1960 and Brazilian composer César Guerra-Peixe submitted his *Trio*, for violin, cello and piano to a contest held by the Brazilian Ministry of Education's radio station.<1> On the surface, the piece is illustrative of Guerra-Peixe's output in the period, but some of its specificities offer interesting points of discussion. From the modal techniques employed and explicit nationalism to the clear structure and tightly-knit thematic work, the *Trio* shows how Guerra-Peixe positioned himself in the debate about Brazilian music at the time. Some old-school motivic analysis may help us better understand what this means.
+The year was 1960 and Brazilian composer César Guerra-Peixe submitted his *Trio*, for violin, cello and piano to a contest held by the Brazilian Ministry of Education's radio station.<1> The full score can be freely accessed at https://painelsesc.sesc.com.br/partituras.nsf/viewLookupPartituras/736289B70CDBCBC5832579DC006F13D7/$FILE/trio_vl_vc_pn.pdf, and the 1960 recording (as well as the sleeve of the 1984 LP where it was released) can be found in http://portais.funarte.gov.br/brasilmemoriadasartes/acervo/discos-pro-memus/guerra-peixe-e-heitor-alimonda-1984/.
 
-The full score can be freely accessed at https://painelsesc.sesc.com.br/partituras.nsf/viewLookupPartituras/736289B70CDBCBC5832579DC006F13D7/$FILE/trio_vl_vc_pn.pdf, and the recording made in 1960 as well as the sleeve of the 1984 LP where it was released can be found in http://portais.funarte.gov.br/brasilmemoriadasartes/acervo/discos-pro-memus/guerra-peixe-e-heitor-alimonda-1984/.
+On the surface, the piece is illustrative of Guerra-Peixe's output in the period, but some of its specificities offer interesting points of discussion. From the modal techniques employed and explicit nationalism to the clear structure and tightly-knit thematic work, the *Trio* shows how Guerra-Peixe positioned himself in the debate about Brazilian music at the time. Some old-school motivic analysis may help us better understand what this means.
 
 The opening *sonata-allegro* begins with material related to the Brazilian northeast<2> in the way the Lydian mode is employed (A1, see example 1), immediately followed by its Dorian version (A1'):
 
